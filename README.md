@@ -1,7 +1,5 @@
 # ft_otp
 
-<img width="1163" alt="ft_otp" src="https://user-images.githubusercontent.com/74931024/166148833-a791b2cd-327b-42bf-ae4b-b1e75fb4fac4.png">
-
 **ft_otp** encourages us **to implement a TOTP generator**. To use this generator you will have to clone the repository:
 
     git clone https://github.com/pgomez-a/ft_otp.git ; cd ./ft_otp/
